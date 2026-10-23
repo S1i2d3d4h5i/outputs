@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "users": [
+    {
+      "id": "b0ecd260-cdf2-41eb-8fde-c543fde03329",
+      "name": "SId",
+      "email": "mandalesiddhi@gmal.com",
+      "salt": "5e1a3faa12096f0afe3f5d4b74f6f4eb",
+      "passwordHash": "9f58297304a640093ef989fee2dbdda43135995fc45a8090a79754f275ffff4dc89c44d2f5413b0344939a306bbb35996037bde6f6795bf549358519910d2645",
+      "createdAt": "2026-10-23T20:02:14.018Z",
+      "savedCareers": [],
+      "savedScholarships": []
+    },
+    {
+      "id": "785e52bc-fcd3-4a97-b335-05dfdc2f02f7",
+      "name": "Sid",
+      "email": "mandalesiddhi@gmail.com",
+      "salt": "58fc6f20122debf2e5b69ac40b68ae90",
+      "passwordHash": "2588cca097aa7d66ab31a3e0665d6bb77e11490e262590de8c68c84e6cbe9dcb701301170ae2a779db463199c353b0725153e622ca22a31de6bfd8ceb8ff8beb",
+      "createdAt": "2026-10-23T20:02:34.038Z",
+      "savedCareers": [],
+      "savedScholarships": []
+    }
+  ],
+  "quizHistory": [
+    {
+      "id": "d58c6789-9e14-4246-8310-6b774065786f",
+      "grade": "12",
+      "interests": [
+        "Solving problems",
+        "Explaining ideas",
+        "A public-facing organisation"
+      ],
+      "recommendations": [
+        {
+          "slug": "civil-services",
+          "title": "Civil Services Officer",
+          "category": "Government & Public Service",
+          "icon": "🏛️",
+          "summary": "Work in public administration, governance and public service.",
+          "route": "Complete a recognised bachelor’s degree and verify the current UPSC or State PSC eligibility and exam notices.",
+          "detail": "/careers/civil-services.html"
+        },
+        {
+          "slug": "journalist",
+          "title": "Journalist",
+          "category": "Media & Communication",
+          "icon": "📰",
+          "summary": "Research, verify and communicate stories across print, broadcast and digital media.",
+          "route": "Explore journalism, media, communication or a subject specialisation; build reporting and writing experience.",
+          "detail": "/categories/arts.html"
+        },
+        {
+          "slug": "software-developer",
+          "title": "Software Developer",
+          "category": "Technology",
+          "icon": "💻",
+          "summary": "Build applications, websites and digital tools that solve real problems.",
+          "route": "Explore computer science, information technology or related degree and diploma routes; check each institution’s current eligibility.",
+          "detail": "/careers/software-developer.html"
+        },
+        {
+          "slug": "entrepreneur",
+          "title": "Entrepreneur",
+          "category": "Finance & Business",
+          "icon": "🚀",
+          "summary": "Develop a useful idea into a product, service or organisation.",
+          "route": "There is no single degree route. Build knowledge in a domain, business fundamentals and practical projects.",
+          "detail": "/explore.html#categories"
+        },
+        {
+          "slug": "law",
+          "title": "Law & Justice",
+          "category": "Law & Justice",
+          "icon": "⚖️",
+          "summary": "Explore legal practice, research, advocacy, policy and justice-related work.",
+          "route": "Compare integrated law programmes after Class 12 with other recognised law routes; verify current admissions and licensing rules.",
+          "detail": "/careers/law.html"
+        }
+      ],
+      "createdAt": "2026-10-23T20:03:20.348Z",
+      "userId": "785e52bc-fcd3-4a97-b335-05dfdc2f02f7"
+    }
+  ]
+}

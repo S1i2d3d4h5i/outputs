@@ -1,0 +1,8 @@
+{
+  "name": "careerconnect-guidance-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CareerConnect India career guidance site with a local Node backend",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
